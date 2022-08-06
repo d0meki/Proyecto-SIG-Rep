@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148762461154",
+    "project_id": "rutas-de-linea-maps",
+    "storage_bucket": "rutas-de-linea-maps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148762461154:android:f6708845bfd00690192fbb",
+        "android_client_info": {
+          "package_name": "com.example.google_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148762461154-7hmnlal6ua2oka4658fti7498onm630b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ri2Qn_CEL2RPRLLrkYnrJBiUlhpmKh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148762461154-7hmnlal6ua2oka4658fti7498onm630b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
